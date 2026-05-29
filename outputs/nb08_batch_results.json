@@ -1,0 +1,407 @@
+[
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Beauty\\test\\images\\guardian10_png.rf.3ef684fec3bc3393d8a1d5c232a344e4.jpg",
+    "parsed": {
+      "store": "PT DFi Retail Nusmntara Tuk",
+      "date": null,
+      "total": "MANDIRI DEBTT 70 920"
+    },
+    "kategori": "Beauty",
+    "confidence": 0.9106,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:27",
+    "true_kategori": "Beauty"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Beauty\\test\\images\\guardian1_png.rf.501b4c49a925f135473609b35f92070d.jpg",
+    "parsed": {
+      "store": "Pr Dri Retai Nssnana TBk",
+      "date": "3035782 SEN PERFECT",
+      "total": "CCA QRIS T105 800"
+    },
+    "kategori": "F&B",
+    "confidence": 0.5732,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:28",
+    "true_kategori": "Beauty"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Beauty\\test\\images\\guardian6_png.rf.deaa0d9cd745d4a5d56ee244dfd8dbef.jpg",
+    "parsed": {
+      "store": "GLUARD THE PARK SEMNA",
+      "date": ":45 18/04/2026",
+      "total": "-BI DEBTT 70.80"
+    },
+    "kategori": "Beauty",
+    "confidence": 0.7031,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:28",
+    "true_kategori": "Beauty"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\F&B\\test\\images\\bk6_png.rf.e34da0ca4e159ee4a8758c7d05821494.jpg",
+    "parsed": {
+      "store": "e",
+      "date": "2riir2or",
+      "total": "Roii"
+    },
+    "kategori": "Beauty",
+    "confidence": 0.3914,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:28",
+    "true_kategori": "F&B"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\F&B\\test\\images\\fore11_png.rf.eac7281102ee00bf4c3e692a53eb3cc3.jpg",
+    "parsed": {
+      "store": "Fere ceffee",
+      "date": "Sunday A Januan2026 0915",
+      "total": null
+    },
+    "kategori": "F&B",
+    "confidence": 0.3105,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:28",
+    "true_kategori": "F&B"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\F&B\\test\\images\\fore17_png.rf.0f1f8b58b7b9cf7cd1e36313bab53f6a.jpg",
+    "parsed": {
+      "store": "Fore Coffee",
+      "date": "esday 3Jwnunp2026 13.12",
+      "total": "ToRnbuA R2j"
+    },
+    "kategori": "F&B",
+    "confidence": 0.9844,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:28",
+    "true_kategori": "F&B"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Gas\\test\\images\\bensin-affan1_jpeg.rf.59aa403b8196f7627ca9d7afcfb54dbb.jpg",
+    "parsed": {
+      "store": "sppua5 50",
+      "date": null,
+      "total": "eNgs eung penruy gZ"
+    },
+    "kategori": "Gas",
+    "confidence": 0.3171,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:28",
+    "true_kategori": "Gas"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Gas\\test\\images\\camscaner-bensin-yani1_png.rf.d59ec21cf30fbb5e7476c227b92fc1b6.jpg",
+    "parsed": {
+      "store": "445321",
+      "date": null,
+      "total": "Tolal Harja: Sp. 69.900"
+    },
+    "kategori": "Gas",
+    "confidence": 0.4897,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:29",
+    "true_kategori": "Gas"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Gas\\test\\images\\shell3_png.rf.62a8d63be42ebed0f8a4fa11f5715c46.jpg",
+    "parsed": {
+      "store": "N INTEN ID 12517536",
+      "date": null,
+      "total": "Vohiyla No Hol Entenea"
+    },
+    "kategori": "Gas",
+    "confidence": 0.8013,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:29",
+    "true_kategori": "Gas"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Groceries\\test\\images\\receipt-067_png_jpg.rf.930186f0b80cca504c3de8ce3f66565d.jpg",
+    "parsed": {
+      "store": "ECsr42G",
+      "date": "01 12 24-15:53/3 0 20/FB4-5375/SATRI0/02",
+      "total": "TOTAL 512 600"
+    },
+    "kategori": "Groceries",
+    "confidence": 0.4668,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:29",
+    "true_kategori": "Groceries"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Groceries\\test\\images\\receipt-194_png_jpg.rf.fbbcb327197ccec715d944834b2ee1bc.jpg",
+    "parsed": {
+      "store": "EC 220",
+      "date": "01 12 24-15:53/3 0 20/F/B4-1214/GITUL/02",
+      "total": "TOTAL 366 300"
+    },
+    "kategori": "Groceries",
+    "confidence": 0.7534,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:29",
+    "true_kategori": "Groceries"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Groceries\\test\\images\\receipt-202_png_jpg.rf.348272ee42b0f9c493843cc37af5c342.jpg",
+    "parsed": {
+      "store": "EmCn",
+      "date": "81 12 24-1559/3 0 20/PB4-80B4/GITUL/02",
+      "total": "TTOTAL 443 20e"
+    },
+    "kategori": "Beauty",
+    "confidence": 0.5483,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:29",
+    "true_kategori": "Groceries"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Health\\test\\images\\1dental11_png.rf.46847a727f668de66dd62216c6968d7a.jpg",
+    "parsed": {
+      "store": "FAKTUR PENJUALAN",
+      "date": "VO INVBK1/202401/044",
+      "total": "JAmIP R ,,00"
+    },
+    "kategori": "Lifestyle",
+    "confidence": 0.3237,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:30",
+    "true_kategori": "Health"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Health\\test\\images\\1dental9_png.rf.0d7ec1aef7fb5e4cd37d8be087450ac8.jpg",
+    "parsed": {
+      "store": null,
+      "date": "TANGGAL 09 Februdn/ 2024 1502",
+      "total": "OTAL PAIEiT Rp 650 000"
+    },
+    "kategori": "Lifestyle",
+    "confidence": 0.4285,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:30",
+    "true_kategori": "Health"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Health\\test\\images\\apotek2_png.rf.bc26d6cb359072c3e0d9c6ecf5f2aa55.jpg",
+    "parsed": {
+      "store": "0NIDC Suummare con",
+      "date": "TobarG SttttnPuuh Rb. R-paN)",
+      "total": "12"
+    },
+    "kategori": "Lifestyle",
+    "confidence": 0.5347,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:30",
+    "true_kategori": "Health"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\HouseHold\\test\\images\\azko20_png.rf.84f58140bd6604d26f6d9f62a114b01e.jpg",
+    "parsed": {
+      "store": "PT ASRIASIIIDUENDONESA TBK",
+      "date": "30 Apr 2025 20.21",
+      "total": "Total Payment 269 000"
+    },
+    "kategori": "HouseHold",
+    "confidence": 0.687,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:30",
+    "true_kategori": "HouseHold"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\HouseHold\\test\\images\\azko4_png.rf.99a32bd6565ee4d338c4109e20e3574b.jpg",
+    "parsed": {
+      "store": "T AsrRIDEINRGNESTA Tok",
+      "date": "Apr 2025 12:18",
+      "total": "otal Ps,nent 14g 900"
+    },
+    "kategori": "Beauty",
+    "confidence": 0.4924,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:30",
+    "true_kategori": "HouseHold"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\HouseHold\\test\\images\\azko9_png.rf.336ef53408a2a480f8afe928bf2249d1.jpg",
+    "parsed": {
+      "store": "PT ASPIRASI HIDUP INDONESIA TbK",
+      "date": "26 Apr 2025 1147",
+      "total": "Total poyment 79 900"
+    },
+    "kategori": "Beauty",
+    "confidence": 0.2527,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:30",
+    "true_kategori": "HouseHold"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Lifestyle\\test\\images\\Screenshot-2026-05-07-000222_png.rf.697ca58a545f786a9921bbbec102a431.jpg",
+    "parsed": {
+      "store": "IEE EE1",
+      "date": "SDs",
+      "total": null
+    },
+    "kategori": "Lifestyle",
+    "confidence": 0.6143,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:31",
+    "true_kategori": "Lifestyle"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Lifestyle\\test\\images\\WhatsApp-Image-2026-05-06-at-16-20-50_jpeg.rf.ca3b49f3017eff80669896b786bd4a33.jpg",
+    "parsed": {
+      "store": "E3",
+      "date": null,
+      "total": null
+    },
+    "kategori": "Lifestyle",
+    "confidence": 0.7622,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:31",
+    "true_kategori": "Lifestyle"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Lifestyle\\test\\images\\WhatsApp-Image-2026-05-06-at-16-20-53-2-_jpeg.rf.1d9d3a4e8a813af2b85857a68e912585.jpg",
+    "parsed": {
+      "store": "csns22,2",
+      "date": "BUQSHL SGLPCEARn",
+      "total": "Bsee"
+    },
+    "kategori": "Lifestyle",
+    "confidence": 0.981,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:31",
+    "true_kategori": "Lifestyle"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Listrik\\test\\images\\IMG-20260503-WA0061_jpg.rf.6500653f9bc657c9e4c8497c641a66eb.jpg",
+    "parsed": {
+      "store": "44",
+      "date": null,
+      "total": "RP 103 000"
+    },
+    "kategori": "Health",
+    "confidence": 0.7007,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:31",
+    "true_kategori": "Listrik"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Listrik\\test\\images\\IMG-20260503-WA0062_jpg.rf.077072fbd09be91abe6de90682e2c284.jpg",
+    "parsed": {
+      "store": "44",
+      "date": null,
+      "total": "RP 203 .000"
+    },
+    "kategori": "Health",
+    "confidence": 0.6982,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:31",
+    "true_kategori": "Listrik"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Listrik\\test\\images\\IMG-20260503-WA0067_jpg.rf.475ee93dd64f79d60f0ebefb418a25ff.jpg",
+    "parsed": {
+      "store": "44",
+      "date": null,
+      "total": "RP 503.000"
+    },
+    "kategori": "Health",
+    "confidence": 0.6909,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 2,
+    "timestamp": "2026-05-29 10:13:31",
+    "true_kategori": "Listrik"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Transport\\test\\images\\tol133_png.rf.4d9ef05dd73b105a64958ff41073488d.jpg",
+    "parsed": {
+      "store": ". Cimanggis Cibitung 1olny",
+      "date": "27/01/2026 17:26:32",
+      "total": "Hp 50"
+    },
+    "kategori": "Transport",
+    "confidence": 0.8389,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:32",
+    "true_kategori": "Transport"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Transport\\test\\images\\tol35_png.rf.e8a5bfd30cbc041a0b4c77dd2baa803e.jpg",
+    "parsed": {
+      "store": "s sazaseA",
+      "date": "20/12/2025 13:40:59",
+      "total": "RD 41. 000"
+    },
+    "kategori": "Transport",
+    "confidence": 0.811,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:32",
+    "true_kategori": "Transport"
+  },
+  {
+    "image_path": "c:\\file akmal\\Capstone - Ai Eng - Spendly_ Workspace\\data\\Transport\\test\\images\\tol43_png.rf.edfc19a06f31a238307d51a8ce0beca1.jpg",
+    "parsed": {
+      "store": "ASAAAESA",
+      "date": "08/01/2026 12:07:01",
+      "total": "Rp 49 000"
+    },
+    "kategori": "Transport",
+    "confidence": 0.8521,
+    "ocr_method": "crnn",
+    "detector_method": "miniyolo",
+    "n_regions": 3,
+    "timestamp": "2026-05-29 10:13:32",
+    "true_kategori": "Transport"
+  }
+]

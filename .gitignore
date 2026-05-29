@@ -1,0 +1,44 @@
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual Environment ──────────────────────────────────────────────────────
+venv/
+venv312/
+env/
+.venv/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Environment Variables (JANGAN upload API key!) ────────────────────────────
+.env
+.env.local
+.env.production
+
+# ── Jupyter Notebook Checkpoints ──────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Large Model Files (opsional — uncomment jika repo terlalu besar) ─────────
+# models/**/*.keras
+# models/**/*.h5
+# models/**/variables/
+# models/**/*.pb
+
+# ── TensorFlow Logs (opsional — uncomment jika tidak ingin upload) ───────────
+# logs/

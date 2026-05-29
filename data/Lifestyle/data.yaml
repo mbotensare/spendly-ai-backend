@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['date', 'store', 'total']
+
+roboflow:
+  workspace: akun-clone
+  project: lifestlye
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/akun-clone/lifestlye/1

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['date', 'store', 'total']
+
+roboflow:
+  workspace: akun-clone
+  project: beauty-3fvnt
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/akun-clone/beauty-3fvnt/dataset/1
